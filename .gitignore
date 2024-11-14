@@ -1,0 +1,3 @@
+/debezium/data/*
+/postgresql/**/*
+.DS_Store
